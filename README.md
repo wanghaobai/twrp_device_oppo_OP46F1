@@ -1,0 +1,1 @@
+# twrp_device_oppo_OP46F1
